@@ -1,24 +1,31 @@
-# Halo 👋, Saya Azzam
+# 👋 Halo, Saya Azzam  
 
-💻 Saya seorang pelajar yang sedang belajar **JavaScript & Cyber Security**  
-🌱 Saat ini fokus di: `Web Development`, `Pentesting`  
-🚀 Project terbaru: [Game Pixel Kerajaan](https://github.com/username/project)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTYzdmI3MmpoNjV0MGlyajVucHc0ZXdsc3Zta2FqdW1tNXYyaDRnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kH6CqYiquZawmU1HI6/giphy.gif" width="400" alt="Anime Coding" align="right"/>
 
----
-
-## ⚡ Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=flat)
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
+💻 **Web Developer | Game Developer | Pentester**  
+Sedang fokus belajar & berkarya di bidang **Web Development**, **Game Dev**, dan **Cyber Security (Pentesting)**.  
 
 ---
 
-## 📊 GitHub Stats
-![Azzam's GitHub stats](https://github-readme-stats.vercel.app/api?username=azzamaidil&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azzamaidil&layout=compact&theme=tokyonight)
+## ⚡ Skill
+- 🌐 Web: HTML, CSS, JavaScript, React, Node.js  
+- 🎮 Game: Godot Engine  
+- 🔐 Pentest: Basic Networking, Linux, Ethical Hacking  
 
 ---
-✉️ Hubungi saya di: [Instagram](https://instagram.com/username) | [LinkedIn](https://linkedin.com/in/username)
 
+
+## 🎯 Hobi
+😴 Tidur  
+🎮 Main Game  
+📱 Main Medsos  
+
+---
+
+## 🌐 Sosial Media
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/username)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/username)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/azzamaidil)  
+
+---
+✨ _"Belajar, Coba, Gagal, Ulangi, Berhasil."_ ✨
