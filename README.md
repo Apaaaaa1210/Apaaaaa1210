@@ -1,9 +1,11 @@
 # 👋 Halo, Saya Azzam  
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTYzdmI3MmpoNjV0MGlyajVucHc0ZXdsc3Zta2FqdW1tNXYyaDRnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kH6CqYiquZawmU1HI6/giphy.gif" width="400" alt="Anime Coding" align="right"/>
 
 💻 **Web Developer | Game Developer | Pentester**  
 Sedang fokus belajar & berkarya di bidang **Web Development**, **Game Dev**, dan **Cyber Security (Pentesting)**.  
+
+<img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ0Y296MW9hc2h6bTB3Yzlva2xyNmQxeGsxbXVqZ291MTJqM3ltbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f4V2mqvv0wT9m/giphy.gif/>
+
 
 ---
 
