@@ -25,6 +25,19 @@ Sedang fokus belajar & berkarya di bidang **Web Development**, **Game Dev**, dan
 
 ---
 
+### 💻 Programming Languages
+- JavaScript
+- Python
+- HTML
+- CSS
+
+### ⚙️ Framework & Library
+- React
+- Node.js
+- Express.js
+
+---
+
 ## 🌐 Sosial Media
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/username)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/username)  
