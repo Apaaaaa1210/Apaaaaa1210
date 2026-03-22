@@ -22,7 +22,7 @@ Saya dikenal sebagai pribadi yang **cepat belajar, problem solver, dan adaptif t
 ### 💻 Programming & Development
 ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/logo-golang-blue?logo=golang)
+![Go Version](https://img.shields.io)
 
 ### 🌐 Web & Frameworks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
